@@ -17,7 +17,7 @@ Azure infrastructure-as-code for Windows Server administration — Active Direct
 - Joining Windows clients to a domain
 ---
  
-## What This Lab Simulates (Plain English)
+## What This Lab Simulates 
  
 Picture a small company with four departments: Finance, HR, Sales, and IT. Each department has its own shared folder on a central file server — like a locked filing cabinet that only the right employees can open. IT can open every cabinet because they manage the whole office.
  
